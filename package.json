@@ -2,11 +2,6 @@
   "name": "stopwords-en",
   "version": "0.4.0",
   "description": "Fork of Gene Diaz's stopwords-en package: https://github.com/stopwords-iso/stopwords-en",
-  "keywords": [
-    "english",
-    "stopwords",
-    "stop words"
-  ],
   "license": "MIT",
   "repository": "https://github.com/interup/stopwords-en"
 }
